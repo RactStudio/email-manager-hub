@@ -1,6 +1,6 @@
 # Email Manager Hub (EWPT Module) `v1.0.0`
 
-### Under Developemnt (not yet ready for production use)
+### Under Development (not yet ready for production use)
 
 Manage your WordPress site's email sender's name and email address, and add stunning HTML template-based emails.
 
