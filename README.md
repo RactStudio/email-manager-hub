@@ -19,4 +19,4 @@ Manage your WordPress site's email sender's name and email address, and in futur
 
 ## License
 
-Essential WP Tools is licensed under the GPL v2 or later.
+"Email Manager Hub" is licensed under the GPL v2 or later.
