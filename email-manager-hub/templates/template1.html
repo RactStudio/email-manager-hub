@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{subject}</title>
+    <style>
+        /* Reset styles */
+        body, html {
+            margin: 0;
+            padding: 15px;
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.6;
+        }
+        body {
+			width: auto;
+			max-width:980px;
+			min-width: 225px;
+			border: 1px solid #ddd;
+			border-radius: 12px;
+		}
+        img {
+            border: 0;
+            display: block;
+            max-width: 100%;
+            height: auto;
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, tr {
+            border-bottom: 1px solid #ddd;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+            vertical-align: top;
+        }
+		tr.header.center td {
+            text-align: center;
+		}
+    </style>
+</head>
+<body>
+    <!-- Header -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+		<tr class="header center">
+			<td>
+				<a target="_blank" href="https://ewpt.ractstudio.com/">
+					<img src="https://ewpt.ractstudio.com/wp-content/uploads/2024/03/ewpt-icon.png" alt="EWPT" width="70">
+				</a>
+			</td>
+		</tr>
+		<tr class="header center">
+			<td>
+				<a target="_blank" href="https://ewpt.ractstudio.com/">
+					<h1>Essential WP Tools</h1>
+				</a>
+			</td>
+		</tr>
+    </table>
+
+    <!-- Body -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td>
+                <h1>{subject}</h1>
+                <p>{message}</p>
+            </td>
+        </tr>
+    </table>
+
+    <!-- Footer -->
+    <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr>
+            <td>
+                <p>Questions? Contact us at <a href="mailto:info@ractstudio.com">info@ractstudio.com</a></p>
+                <p>You're receiving this email because...</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
