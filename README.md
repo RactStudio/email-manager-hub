@@ -2,7 +2,7 @@
 
 ### Under Developemnt (not yet ready for production use)
 
-Manage your WordPress site's email sender's name and email address, and in future we will add stunning HTML template-based emails.
+Manage your WordPress site's email sender's name and email address, and add stunning HTML template-based emails.
 
 ### This is a Module for '[Essential WP Tools](https://wordpress.org/plugins/essential-wp-tools/)' WordPress Plugin, and require installation of the core plugin.
 
