@@ -11,6 +11,17 @@ Manage your WordPress site's email sender's name and email address, and add stun
 ## GitHub Release: [Download on Github Releases](https://github.com/RactStudio/essential-wp-tools/releases)
 ## EWPT Modules: [Download Modules Packages](https://github.com/RactStudio/ewpt-modules/)
 
+## At a Glance
+
+* Contributors:		    @mhrubel
+* Donate link:			  https://www.patreon.com/RactStudio
+* Requires at least:  5.0 (WordPress Version)
+* Tested up to WP:		6.6 (WordPress Version) (Should work on the later version)
+* Tested up to EWPT:	2.1.0 (Essential WP Tools Version) (Should work on the later version)
+* Stable version:			1.0.0 Under Development (not yet ready for production use)
+* Requires PHP:		    7.4
+* License:					  GPLv2 or later
+* License URI:			  https://www.gnu.org/licenses/gpl-2.0.html
 
 ## Credits
 
